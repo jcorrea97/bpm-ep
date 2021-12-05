@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Nome",
+      "type": "textfield",
+      "id": "Field_0akshvx",
+      "key": "name",
+      "description": "Nome",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Valor financiamento",
+      "type": "textfield",
+      "id": "Field_0nx671m",
+      "key": "valorFinanciamento",
+      "description": "valor do financiamento",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Financiamento banco ou corretora?",
+      "type": "textfield",
+      "id": "Field_02snrgy",
+      "key": "bancoOuCorretora",
+      "validate": {
+        "required": true
+      },
+      "description": "local  financiamento"
+    },
+    {
+      "label": "Renda mensal",
+      "type": "textfield",
+      "id": "Field_145wi1u",
+      "key": "rendaMensalField"
+    },
+    {
+      "label": "Média dos ultimos 5 (cinco) salários",
+      "type": "textfield",
+      "id": "Field_1v3xs0w",
+      "key": "mediaSalarioField",
+      "description": "média salário"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1q10v82"
+}

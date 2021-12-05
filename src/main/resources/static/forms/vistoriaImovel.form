@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Status da vistoria",
+      "type": "textfield",
+      "id": "Field_10btnay",
+      "key": "statusField",
+      "description": "status"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1dk8hin"
+}
